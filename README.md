@@ -1,0 +1,1 @@
+A cheating scripting to book device automatically.
